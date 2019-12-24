@@ -2,4 +2,5 @@
 Implementations of Quines and related thingies
 
 Thingies so far:
-selfEncrypting.c - not quite complete, nearly there!
+
+selfEncrypting.c - it encrypts its own source code!
